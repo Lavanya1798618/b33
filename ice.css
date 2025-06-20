@@ -1,0 +1,41 @@
+/* style.css */
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.bg-mint {
+  background-color: #b2f0e6;
+}
+
+.text-mint {
+  color: #28b4a3;
+}
+
+.btn-mint {
+  background-color: #28b4a3;
+  color: white;
+  border-radius: 10PX;
+}
+
+.btn-mint:hover {
+  background-color: #1e9587;
+  color: white;
+}
+.image{
+  background-position: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.me-2{
+  border-radius: 10px;
+}
+.heading{
+  background-color: white;
+  border-radius: 100px;
+}
+.nsh{
+  color: black;
+  font-weight: bolder;
+  font-size: 20px;
+}
